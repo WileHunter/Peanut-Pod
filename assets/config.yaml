@@ -1,0 +1,5 @@
+# Peanut Pod 配置文件
+
+# 代理服务器端口配置
+socks5_port: 1800
+http_port: 1801
